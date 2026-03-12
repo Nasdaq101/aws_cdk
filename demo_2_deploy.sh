@@ -41,4 +41,3 @@ cdk deploy --all --require-approval never
 
 echo ""
 echo "Deployment complete. Stacks: StorageStack, LambdaStack, ApiStack."
-echo "Next: ./demo_5_invoke.sh"
