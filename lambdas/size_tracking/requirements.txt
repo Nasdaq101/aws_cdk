@@ -1,0 +1,2 @@
+# Size-tracking Lambda uses only boto3 (provided by AWS Lambda runtime).
+# No extra dependencies.

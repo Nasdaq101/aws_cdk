@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# AWS
+*.zip
+output.json
+.aws/
+
+# Plot output
+plot.png
+plot
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Lambda packages
+lambdas/*/package/
+lambdas/*/function.zip
+
+# CDK
+cdk/cdk.out/
+cdk/.venv/
+cdk/__pycache__/

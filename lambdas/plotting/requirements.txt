@@ -1,0 +1,2 @@
+# Plotting Lambda: bundle with deployment package (Lambda does not include matplotlib)
+matplotlib>=3.5.0
